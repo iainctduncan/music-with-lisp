@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Music With Lisp - Computer Music Tutorials'
+project = 'Music With Lisp'
 copyright = '2022, Iain C.T. Duncan'
 author = 'Iain C.T. Duncan'
 
