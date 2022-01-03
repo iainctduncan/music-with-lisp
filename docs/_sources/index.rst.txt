@@ -5,15 +5,14 @@
 
 Music With Lisp 
 ===============
-Computer Music Tutorials for Scheme for Max and Pd
+Tutorials for Scheme for Max and Pd by Iain C.T. Duncan
 --------------------------------------------------------
-Iain C.T. Duncan
-----------------
 
 Welcome to the Music With Lisp tutorial site. This is intended to be
 a repository of my writings and tutorials on making computer music with s7 Scheme
 Lisp using Scheme for Max and Scheme for Pure Data.
 
+Articles Coming Soon! 
 
 .. toctree::
    :maxdepth: 2
